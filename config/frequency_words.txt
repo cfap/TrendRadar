@@ -47,6 +47,8 @@ NVIDIA
 
 AMD
 
+Cursor
+
 谷歌
 google
 gemini
