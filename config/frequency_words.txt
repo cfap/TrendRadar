@@ -3,11 +3,10 @@
 DeepSeek
 梁文锋
 
-qwen
-kimi
-glm
-grok
-llama
+Qwen
+Kimi
+GLM
+Grok
 千问
 
 华为
@@ -19,19 +18,16 @@ llama
 大疆
 DJI
 
-宇树
-王兴兴
-
 百度
 腾讯
-马化腾
 阿里
-马云
+淘宝
+天猫
+支付宝
 京东
-刘强东
 
 字节
-bytedance
+ByteDance
 张一鸣
 
 SpaceX
@@ -50,26 +46,26 @@ AMD
 Cursor
 
 谷歌
-google
-gemini
-deepmind
+Google
+Gemini
+DeepMind
 
-chatgpt
-openai
-sora
+GPT
+OpenAI
+Sora
 
-claude
+Claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
-apple
+iPhone
+iPad
+Mac
+iOS
+Apple
 苹果
 
-ai
-agi
+AI
+AGI
 !gai
 大模型
 人工智能
@@ -100,8 +96,8 @@ agi
 科技
 云计算
 
-amazon
-tiktok
+Amazon
+TikTok
 电商
 跨境
 亚马逊
@@ -109,16 +105,22 @@ tiktok
 核能
 核武器
 
+C919
 J15
 J16
 J20
 J35
 J36
 J50
+H20
 F22
 F35
 F47
 航母
+轰炸机
+战斗机
+战机
+客机
 
 新质生产力
 
@@ -129,6 +131,10 @@ F47
 原油
 股票
 美股
+港股
+比特币
+加密货币
+稳定币
 A股
 上证
 
